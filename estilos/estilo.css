@@ -106,7 +106,7 @@ main img{
     width: 100%;
 }
 main img.pequena{
-    width: 500px;
+    max-width: 500px;
     margin: auto;
     display: block;
 }
